@@ -1,0 +1,26 @@
+.heading{
+    font-size: 25px;
+    width: 89%;
+    box-shadow: 10px 5px 10px orangered;
+    margin: 0px;
+}
+
+.NOTE{
+font-size: 15px;
+}
+
+.footer{
+    width: 100%;
+    bottom: 0;
+position: fixed;
+text-align: center;
+background-color:gray;
+color:lawngreen;
+}
+
+canvas{
+border: 10px  ridge salmon;
+
+
+}
+
